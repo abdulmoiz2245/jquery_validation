@@ -1,1 +1,1 @@
-# jquery_validation in with php
+# jquery_validation with php
