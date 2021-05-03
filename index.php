@@ -22,7 +22,7 @@
                 <a class="nav-link active" id="home-tab" data-toggle="tab" href="#form" role="tab" aria-controls="home" aria-selected="true">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#file" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#file" role="tab" aria-controls="profile" aria-selected="false">File</a>
             </li>
         </ul>
         <div class="tab-content" id="myTabContent">
